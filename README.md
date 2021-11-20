@@ -2,7 +2,7 @@
 
 开发板是使用的Lichee Tang Primer，IDE为Anlogic TD 5.0.4
 
-![系统结构图](X:\FPGA\LicheeTang\Projects\Tracking Car\graph.png)
+![系统结构图](https://github.com/W-Mai/Tracking-Car/blob/master/graph.png)
 
 源码主要分为三个模块，main为顶层模块，其次还有电机驱动模块和时钟分频模块。
 

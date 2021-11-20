@@ -1,0 +1,20 @@
+set_pin_assignment	{ A_NO }	{ LOCATION = N12; }
+set_pin_assignment	{ A_PO }	{ LOCATION = P12; }
+set_pin_assignment	{ B_NO }	{ LOCATION = N11; }
+set_pin_assignment	{ B_PO }	{ LOCATION = L10; }
+set_pin_assignment	{ led[0] }	{ LOCATION = R3; }
+set_pin_assignment	{ led[1] }	{ LOCATION = P13; }
+set_pin_assignment	{ led[2] }	{ LOCATION = J14; }
+set_pin_assignment	{ mainCLK }	{ LOCATION = K14; }
+set_pin_assignment	{ sensorIn[0] }	{ LOCATION = C16; }
+set_pin_assignment	{ sensorIn[1] }	{ LOCATION = C15; }
+set_pin_assignment	{ sensorIn[2] }	{ LOCATION = E16; }
+set_pin_assignment	{ sensorIn[3] }	{ LOCATION = F16; }
+
+
+
+
+
+
+
+
